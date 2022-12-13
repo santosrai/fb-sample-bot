@@ -29,7 +29,7 @@
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
     "ejs": "^2.7.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.19.5",
     "locus": "^2.0.1",
     "lodash": "^4.17.20",
